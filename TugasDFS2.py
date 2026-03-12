@@ -1,3 +1,4 @@
+#galang pratama
 graph = {
     "Rumah": ["Kampus", "Masjid"],
     "Kampus": ["Terminal"],
